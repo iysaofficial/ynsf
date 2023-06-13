@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const HeroArea = () => {
    return (
@@ -21,7 +22,7 @@ const HeroArea = () => {
                            <span>digital ecosytem</span> <br />
                         </h2>
                         <p>{`We're here with the initiative to engage with indonesia's enterprenurial digital ecosytem`}</p>
-                        <a class="m-btn m-btn-white banner__more" href="/about"> <span></span> Learn More</a>
+                        <Link class="m-btn m-btn-white banner__more" href="/about"> <span></span> Learn More</Link>
                      </div>
                   </div>
                </div>

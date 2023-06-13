@@ -18,7 +18,7 @@ const BlogDetailsArea = () => {
               <div className="page__title-content mb-50">
                 <div className="postbox__meta d-flex">
                   <div className="postbox__tag-2">
-                    <a href="#">{blogItem.category}</a>
+                    <a href="/#">{blogItem.category}</a>
                   </div>
                   <div className="postbox__time">
                     <span>4 min read</span>
@@ -29,10 +29,10 @@ const BlogDetailsArea = () => {
                   <ul className="d-flex align-items-center">
                     <li>
                       <h6>
-                        <a href="#">{blogItem.name}</a>
+                        <a href="/#">{blogItem.name}</a>
                       </h6>
                       <span>
-                        <a href="#">View Profile</a>
+                        <a href="/#">View Profile</a>
                       </span>
                     </li>
                     <li>
@@ -53,7 +53,7 @@ const BlogDetailsArea = () => {
             <div className="col-xxl-8 col-xl-8 col-lg-8">
               <div className="postbox__wrapper">
                 <div className="postbox__thumb postbox__thumb-2 fix w-img mb-30">
-                  <a href="#">
+                  <a href="/#">
                     <img src={blogItem.img} alt="" />
                   </a>
                 </div>
@@ -130,22 +130,22 @@ const BlogDetailsArea = () => {
                   <h5>The share</h5>
                   <ul>
                     <li>
-                      <a href="#" className="fb">
+                      <a href="/#" className="fb">
                         <i className="fab fa-facebook-f"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="tw">
+                      <a href="/#" className="tw">
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="pin">
+                      <a href="/#" className="pin">
                         <i className="fab fa-pinterest-p"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="link">
+                      <a href="/#" className="link">
                         <i className="fab fa-linkedin-in"></i>
                       </a>
                     </li>

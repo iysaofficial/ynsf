@@ -89,7 +89,7 @@ const Header = () => {
                      <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-8 col-6">
                         <div className="header__action d-flex align-items-center justify-content-end">
                            <div className="header__login d-none d-sm-block">
-                              <Link href="/about"><a class="m-btn m-btn-border-2 m-btn-white"> Get Started </a></Link>
+                              <Link href="/about"><a className="m-btn m-btn-border-2 m-btn-white"> Get Started </a></Link>
                            </div>
                         </div>
                      </div>

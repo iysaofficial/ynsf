@@ -17,7 +17,7 @@ const Video = () => {
                         <h2>After Event 2023</h2>
                         <div className="hero__search-box mt-40 mb-65">
                            <div className="hero__search-thumb">
-                           <iframe width="700" height="350" src="https://www.youtube.com/embed/0j7IrOGZsE0" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              <img className="hero-search-sm" src="assets/img/hero/home-2/hero-search-sm.png" alt="" />
+                           <iframe width="700" height="350" src="https://www.youtube.com/embed/0j7IrOGZsE0" title="YouTube video player" frameBorder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>                              <img className="hero-search-sm" src="assets/img/hero/home-2/hero-search-sm.png" alt="" />
                               <div className="hero__search-shape">
                                  <img className="man-search" src="assets/img/hero/home-2/man-search.png" alt="" />
                                  <img className="hero-man-1" src="assets/img/hero/home-2/man-1.png" alt="" />

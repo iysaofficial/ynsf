@@ -53,8 +53,8 @@ const Footer = () => {
                               <div className="footer__widget-content">
                                  <div className="footer__link footer__link-2">
                                     <ul>
-                                       <li><a href="/gallery">Gallery </a></li>
-                                       <li><a href="/contact">Contact</a></li>
+                                       <li><Link href="/gallery">Gallery </Link></li>
+                                       <li><Link href="/contact">Contact</Link></li>
                                        <li><a href="https://iysa.or.id/">Website</a></li>
                                     </ul>
                                  </div>
