@@ -20,7 +20,7 @@ const HeroArea = () => {
                         <h2 className="hero__title">
                            <span>PENDAHULUAN</span> <br />
                         </h2>
-                        <p>{`Youth National Science Fair (YNSF) merupakan ajang adu kemam puan para peneliti muda berusia 13-20 tahun dalam mempresentasikan hasil penelitian yang telah mereka lakukan. Melalui Youth National Science Fair 2023, para peneliti muda berkesempatan untuk memaparkan hasil karya mereka, memperkaya wawasan, meningkatkan kemampuan berkomunikasi dan berkesempatan untuk berkompetisi di tingkat dunia karena juara dari YNSF 2023 secara otomatis akan mewakili Indonesia dalam ajang internasional.`}</p>
+                        <p>{`Youth National Science Fair (YNSF) merupakan ajang adu kemampuan para peneliti muda berusia 13-20 tahun dalam mempresentasikan hasil penelitian yang telah mereka lakukan. Melalui Youth National Science Fair 2023, para peneliti muda berkesempatan untuk memaparkan hasil karya mereka, memperkaya wawasan, meningkatkan kemampuan berkomunikasi dan berkesempatan untuk berkompetisi di tingkat dunia karena juara dari YNSF 2023 secara otomatis akan mewakili Indonesia dalam ajang internasional.`}</p>
                         
                         {/* <a class="m-btn m-btn-white banner__more" href="/about"> <span></span> Learn More</a> */}
                      </div>
