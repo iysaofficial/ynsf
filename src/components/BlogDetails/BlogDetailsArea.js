@@ -107,20 +107,20 @@ const BlogDetailsArea = () => {
                 <div className="postbox__quote-2 mb-50">
                   <blockquote>
                     <h4>
-                      "Kami sangat bangga terhadap Tim pelajar peneliti Aleron
+                      Kami sangat bangga terhadap Tim pelajar peneliti Aleron
                       Alpha dan Beta dari SMAN CMBBS berhasil mengharumkan nama
                       Provinsi Banten, dengan masing-masing meraih medali emas
-                      dan perunggu," kata Edi Supriyanto Senin 13 Maret 2023.
+                      dan perunggu, kata Edi Supriyanto Senin 13 Maret 2023.
                       Yustiandi dan Hj. Ratu Syahida Fitriyati sebagai pembina
                       mengatakan even YNSF 2023 merupakan ajang adu kemampuan
                       para peneliti muda berusia 13-20 tahun dalam
                       mempresentasikan hasil penelitian yang telah mereka
-                      lakukan. "Even ini diikuti oleh pelajar dan mahasiswa dari
+                      lakukan. Even ini diikuti oleh pelajar dan mahasiswa dari
                       seluruh Indonesia. YNSF International Fair diselenggarakan
                       setiap tahun oleh Indonesia Young Science Association
                       (IYSA), yaitu lembaga yang bergerak dalam pengembangan
                       potensi, bakat, dan kreativitas pelajar dan mahasiswa
-                      Indonesia,"
+                      Indonesia,
                     </h4>
                     <span>kata Yustiandi.</span>
                   </blockquote>

@@ -32,7 +32,6 @@ const DigitalEcosystem = () => {
                 
                 <Link href="/pricing">
                   <div className="m-btn m-btn-border-2 ctatwo__btn active">
-                    {" "}
                     <span></span> NEXTDEV
                   </div>
                 </Link>
@@ -40,7 +39,6 @@ const DigitalEcosystem = () => {
                 <p>Scouting digital startups through incubation and mentorship</p>
                 <Link href="/pricing">
                   <div className="m-btn m-btn-border-2 ctatwo__btn active">
-                    {" "}
                     <span></span> TINC
                   </div>
                 </Link>
@@ -48,7 +46,6 @@ const DigitalEcosystem = () => {
                 <p>Accelerate your startup with our intensive 5-step-program</p>
                 <Link href="/pricing">
                   <div className="m-btn m-btn-border-2 ctatwo__btn active">
-                    {" "}
                     <span></span> TMI
                   </div>
                 </Link>
@@ -56,7 +53,6 @@ const DigitalEcosystem = () => {
                 <p>Grow your business with our venture arm as well as advanced strategic coaching</p>
                 <Link href="/pricing">
                   <div className="m-btn m-btn-border-2 ctatwo__btn active">
-                    {" "}
                     <span></span> INDICO
                   </div>
                 </Link>
