@@ -1,7 +1,7 @@
 import React from 'react';
 import BlogDetailsArea from '../../components/BlogDetails/BlogDetailsArea';
 import BgShape from '../../components/common/BgShape';
-import Header from '../../components/Home/Header';
+import Header from '../../components/HomeMain/Header';
 import SEO from '../../components/seo';
 
 const BlogDetails = () => {
